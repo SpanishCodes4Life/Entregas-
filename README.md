@@ -10,3 +10,4 @@ No frontend, usamos React com Bootstrap para criar uma interface leve e responsi
 ### 3° Rode o front-end com:
 * npm install na pasta frontend
 * npm run dev 
+### 4° Navegue até localhost:5173
