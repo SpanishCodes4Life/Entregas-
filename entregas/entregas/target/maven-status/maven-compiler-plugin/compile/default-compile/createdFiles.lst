@@ -1,0 +1,14 @@
+com\mackenzie\br\entregas\historicoStatus\HistoricoStatus.class
+com\mackenzie\br\entregas\entrega\Entrega.class
+com\mackenzie\br\entregas\Service\ViaCepService.class
+com\mackenzie\br\entregas\Repository\EntregaRepository.class
+com\mackenzie\br\entregas\Repository\HistoricoRepository.class
+com\mackenzie\br\entregas\endereco\Endereco.class
+com\mackenzie\br\entregas\Repository\ClienteRepository.class
+com\mackenzie\br\entregas\transportadora\Transportadora.class
+com\mackenzie\br\entregas\Service\ClienteService.class
+com\mackenzie\br\entregas\Cliente\Cliente.class
+com\mackenzie\br\entregas\EntregasApplication.class
+com\mackenzie\br\entregas\controller\ClienteController.class
+com\mackenzie\br\entregas\Repository\EnderecoRepository.class
+com\mackenzie\br\entregas\Repository\TransportadoraRepository.class
